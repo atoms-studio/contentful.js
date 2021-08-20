@@ -1,5 +1,5 @@
 {
-  "name": "contentful",
+  "name": "@atoms-studio/contentful",
   "description": "Client for Contentful's Content Delivery API",
   "version": "0.0.0-determined-by-semantic-release",
   "homepage": "https://www.contentful.com/developers/documentation/content-delivery-api/",
