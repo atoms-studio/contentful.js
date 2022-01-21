@@ -44,10 +44,10 @@ module.exports = function(api) {
       },
       modules: {
         presets: [['@babel/preset-env', {
-          targets: {
-            browsers: mainSupportedBrowsers,
-            node: '12'
-          }
+          "targets": {
+            "esmodules": true
+          },
+          "modules": false
         }]]
       }
     },
